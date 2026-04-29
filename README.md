@@ -1,6 +1,6 @@
 # Research-Genius-AI
 
-ResearchGenius AI is an intelligent research assistant designed to help students, researchers, and academicians identify unique research topics, discover research gaps, and improve the quality of their work using AI-powered analysis.
+ResearchGenius AI is an intelligent research assistant designed to help students, researchers, and academicians identify unique research topics, discover research gaps, and improve the quality of their work using AI-powered analysiss.
 
 ---
 
