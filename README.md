@@ -31,7 +31,7 @@ ResearchGenius AI is an intelligent research assistant designed to help students
 
 ## Tech Stack
 
-- **Frontend:** Streamlit / HTML / CSS (based on your implementation)
+- **Frontend:** Streamlit / HTML / CSS 
 - **Backend:** Python
 - **Libraries:**
   - SentenceTransformers (BERT)
